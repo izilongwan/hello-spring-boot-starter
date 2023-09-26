@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.hellospringbootstarter.config.InterceptorAutoConfig,\
+com.hellospringbootstarter.interceptor.LogInterceptor

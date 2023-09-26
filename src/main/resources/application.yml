@@ -1,0 +1,9 @@
+# 应用名称
+spring:
+  application:
+    name: hello
+
+
+hello:
+  age: 999
+  name: izilong
